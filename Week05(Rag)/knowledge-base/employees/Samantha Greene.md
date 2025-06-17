@@ -40,6 +40,7 @@
 
 - **2023:** Base Salary - $70,000  
   Recognized for substantial improvement in employee relations management and contributions to company culture, leading to a well-deserved increase.
+  Recognized for substantial improvement in employee realtions management and contributions to company culture, leading to a well-deserved increase.
 
 ## Other HR Notes
 - Samantha Greene has expressed interest in pursuing an HR certification (SHRM-CP) to further her career growth within Insurellm. 

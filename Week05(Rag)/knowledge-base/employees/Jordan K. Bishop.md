@@ -35,3 +35,9 @@
 - Engaged in a 6-month performance improvement plan as of August 2023, focusing on skill development and consistent performance monitoring. 
 
 Jordan K. Bishop is a valued member of the Insurellm family, exhibiting a commitment to growth and development despite recent challenges.
+
+## Other HR Notes
+- Jordan K. Bishop has been an integral part of club initiatives, including the Insurellm Code Reviews and Feedback Group, providing peer support
+- Active participant in the company's Diversity and Inclusion committee, promoting a positive work culture.
+- Jordan has expressed interest in professional development courses, particularly those focused on modern web techonlogies, which are being considered for sponsorship by Insurellm.
+- Engaged in a 6-month performance improvement plan as of August 2023, focusing on skill development and consistent performance monitoring.

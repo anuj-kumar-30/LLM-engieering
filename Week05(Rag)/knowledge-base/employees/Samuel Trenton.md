@@ -16,6 +16,7 @@
 
 - **August 2016 - May 2018:** Junior Data Analyst  
   *Started at Insurellm as a Junior Data Analyst, focusing on data cleaning and preliminary analysis of customer data. Received training in various data visualization techniques, which aided in the transition to a Data Scientist role.*
+  *Started at Insurellm as a Junior Data Analyst, focusing on data cleaning and preliminary analysis of customer data. Received training in various data visualization techniques, which aided in the trasition to a Data Scientist role.*
 
 ## Annual Performance History
 - **2023:** Rating: 4.5/5  
@@ -23,6 +24,7 @@
 
 - **2022:** Rating: 3.0/5  
   *Some challenges in meeting deadlines and collaboration with the engineering team. Received constructive feedback and participated in a team communication workshop.*
+  *Some challenges in meeting deadlines and collaboration with the engineering team. Received constrauctive feedback and participated in a team communication workshop.*
 
 - **2021:** Rating: 4.0/5  
   *There was notable improvement in performance. Worked to enhance model accuracy, leading to improved risk assessment outcomes for B2C customers.*
